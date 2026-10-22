@@ -1955,5 +1955,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-apps-fileview.texmex_20261015.00_p1
-detect_upload_pr
